@@ -1,0 +1,5 @@
+*.pickle filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+static/video/*.m4a filter=lfs diff=lfs merge=lfs -text
+static/video/*.jpg filter=lfs diff=lfs merge=lfs -text
